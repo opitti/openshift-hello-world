@@ -3,3 +3,5 @@ oc new-project \
        --description='hello world' \
        o4d-hello
 
+oc get routes
+
