@@ -1,0 +1,5 @@
+oc new-project \
+       --display-name='Hello OpenShift for Developers' \
+       --description='hello world' \
+       o4d-hello
+
